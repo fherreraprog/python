@@ -2,3 +2,10 @@
 
 # Python
 Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte I
+
+## Guia de Ejercicios :
+
+* [Semana I] ()
+* [Semana II]
+* [Semana III]
+* [Semana IV]
