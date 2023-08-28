@@ -7,7 +7,10 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte I
 
 [Servidor en Discord](https://discord.gg/8UkcdXqvj3)
 
-## Guia de Ejercicios :
+## Guía Resumen 
+
+
+## Guía de Ejercicios :
 
 * [Semana I](https://github.com/fherreraprog/python/blob/95501bf01452f629e7506deca0c559c9407efb30/Ejercicios/Semana_I.md)
 * [Semana II](https://github.com/fherreraprog/python/blob/95501bf01452f629e7506deca0c559c9407efb30/Ejercicios/Semana_II.md)
