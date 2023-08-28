@@ -5,11 +5,17 @@ Primer programa en Python. Escribir un programa que imprima por pantalla "Hola m
 
 **Ejercicio 2**
 
-Escribir un programa que cargue en una variable la cadena de caracteres “Hola mundo” y luego la imprima por pantalla.
+Escribir un programa que cargue en una variable la cadena de caracteres “Si se espera que una máquina sea infalible, tampoco puede ser inteligente” y luego la imprima por pantalla.
 
  **Ejercicio 3**
 
-Escribir un programa que cree dos variables, le cargue números arbitrarios (cualquiera) y muestre por pantalla: la suma, la resta, la multiplicación, la división entera y el resto de la división entera cada operación por línea.
+Escribir un programa que cree dos variables, le cargue números arbitrarios (cualquiera) y muestre por pantalla: 
+* la suma.
+* la resta.
+* la multiplicación.
+* la división entera.
+* el resto de la división entera. 
+cada operación por línea.
 
 
 **Ejercicio 4**
