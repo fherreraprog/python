@@ -15,15 +15,15 @@ Escribir un programa que cree dos variables, le cargue números arbitrarios (cua
 * la multiplicación.
 * la división entera.
 * el resto de la división entera. 
-cada operación por línea.
+* cada operación por línea.
 
 
 **Ejercicio 4**
 
 Implementar algoritmos que permitan:
-Calcular el perímetro y el área de un rectángulo, dada su base y su altura
-Calcular el perímetro y el área de un círculo dado su radio.
-Declarar las variables necesarias y asignarle números arbitrarios
+* Calcular el perímetro y el área de un rectángulo, dada su base y su altura
+* Calcular el perímetro y el área de un círculo dado su radio.
+* Declarar las variables necesarias y asignarle números arbitrarios
 
 **Ejercicio 5**
 
@@ -39,4 +39,4 @@ Escribir un programa que pregunte al usuario una cantidad a invertir, el interé
 
 **Ejercicio 8**
 
-Escribir un programa que pregunte el nombre completo del usuario en la consola y después muestre por pantalla el nombre completo del usuario tres veces
+Escribir un programa que pregunte el nombre completo del usuario en la consola y después muestre por pantalla el nombre completo del usuario tres veces.
