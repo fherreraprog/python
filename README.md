@@ -7,7 +7,7 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte I
 
 [Servidor en Discord](https://discord.gg/8UkcdXqvj3)
 
-## Guía Resumen 
+## Guías Resumen 
 
 
 ## Guía de Ejercicios :
