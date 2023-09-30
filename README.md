@@ -10,8 +10,5 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte I
 ## [Notas](https://github.com/fherreraprog/python/tree/ff9c6ed3324a943b287da2f391b050714d814b32/notas)
 
 
-## Guía de Ejercicios :
+## [Guía de Ejercicios](https://docs.google.com/document/d/1-oiTe1iwyjJi6BH8gFfus80CGKHLASrCr6P9Zr-oajg/edit?usp=sharing) 
 
-* [Semana II](https://github.com/fherreraprog/python/blob/95501bf01452f629e7506deca0c559c9407efb30/Ejercicios/Semana_II.md)
-* [Semana III](https://github.com/fherreraprog/python/blob/95501bf01452f629e7506deca0c559c9407efb30/Ejercicios/Semana_III.md)
-* [Semana IV](https://github.com/fherreraprog/python/blob/95501bf01452f629e7506deca0c559c9407efb30/Ejercicios/Semana_IV.md)
