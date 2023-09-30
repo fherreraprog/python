@@ -10,5 +10,5 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte I
 ## [Notas](https://drive.google.com/drive/folders/1wBWHY-kG4DMrAApsBjH40fqDg9eRPSsN?usp=sharing)
 
 
-## [Guía de Ejercicios](https://docs.google.com/document/d/1-oiTe1iwyjJi6BH8gFfus80CGKHLASrCr6P9Zr-oajg/edit?usp=sharing) 
+## [Guía de Ejercicios](https://drive.google.com/drive/folders/14bx-5kNVmhQPeIzpreRNmN4Kv5InSR5P?usp=sharing) 
 
