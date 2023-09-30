@@ -7,7 +7,7 @@ Espacio de Trabajo del Curso Una ambiciosa Introducción a Python Parte I
 
 [Servidor en Discord](https://discord.gg/8UkcdXqvj3)
 
-## [Notas](https://github.com/fherreraprog/python/tree/ff9c6ed3324a943b287da2f391b050714d814b32/notas)
+## [Notas](https://drive.google.com/drive/folders/1wBWHY-kG4DMrAApsBjH40fqDg9eRPSsN?usp=sharing)
 
 
 ## [Guía de Ejercicios](https://docs.google.com/document/d/1-oiTe1iwyjJi6BH8gFfus80CGKHLASrCr6P9Zr-oajg/edit?usp=sharing) 
