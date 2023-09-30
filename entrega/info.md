@@ -1,1 +1,1 @@
-Crear una carpeta por cada semana
+# Crear una carpeta por cada guía de ejercicios
